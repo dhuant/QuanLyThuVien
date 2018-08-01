@@ -1,0 +1,8 @@
+﻿- Thầy Attach cơ sở dữ liệu trong thư mục database vào SQL server.
+- Sau đó chạy file QLTV.exe trong thư mục exe.
+- Đăng nhập quyền admin với tài khoản (username: nnlinh, password: 1234).
+- Đăng nhập với quyền thủ thư với tài khoản (username: huantd, password: 1234).
+- Đã hoàn thành công việc.
+ + Đổi mật khẩu.
+ + Thêm sửa Role.
+ + Thêm sửa nhân viên.
